@@ -3,7 +3,9 @@
 
 ## Description
 
-An endless collection of images at your fingertips! As the user scrolls down the page, new images are pulled from a 
+An endless collection of images at your fingertips! As the user scrolls down the page, new images are pulled from an unsplash API. While images might repeat, there is theoretically no limit to the number of pictures that can be pulled from the API and shown on the app.
+
+The only down-side is that the API has a test license so there is a finite amount of connections that can be made.
 
 ![Screenshot](https://github.com/ERion42/InfinityScroll/blob/59c787e17207820fe103e712d66a9702173c4c54/screenMockup.png)
 
